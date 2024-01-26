@@ -12,3 +12,8 @@ The open_source_assets are listed with their sources where possible. Additionall
   - [*Kenney's prototype textures*](https://www.kenney.nl/assets/prototype-textures)
   - [*Lukky's RPG assets*](https://github.com/lukky-nl/RPG_assets)
   - [*Mixamo basic char rig*](https://www.mixamo.com/#/)
+
+* Additional Project Resources
+The following is an inexhaustive list of additional resources that are being utilised in the development of G.G.
+  - Concept Docs - Google Doc - https://docs.google.com/document/d/1MHSy44bLe8WU8okVrHH7fNLhWY1q-Q--5iSY9SLMwRM/edit?usp=sharing
+ 
