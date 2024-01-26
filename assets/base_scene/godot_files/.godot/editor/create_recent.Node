@@ -1,0 +1,9 @@
+Node3D
+Camera3D
+SubViewport
+SubViewportContainer
+OmniLight3D
+CollisionShape3D
+CharacterBody3D
+CSGBox3D
+WorldEnvironment
