@@ -1,5 +1,5 @@
-res://scenes/player/camera_rig.tscn
+res://scenes/player/player.tscn
 res://materials/floor_material.tres
 res://materials/wall_material.tres
-res://scenes/player/player.tscn
+res://scenes/player/camera_rig.tscn
 res://scenes/main.tscn
