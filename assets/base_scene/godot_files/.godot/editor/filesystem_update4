@@ -1,0 +1,4 @@
+res://scenes/main.tscn
+res://materials/floor_material.tres
+res://materials/wall_material.tres
+res://scenes/player/player.tscn
