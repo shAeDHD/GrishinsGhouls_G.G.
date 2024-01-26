@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://b2thhhwe44cuy"]
 
 [ext_resource type="Script" path="res://scripts/player/camera_rig.gd" id="1_lrjhl"]
-[ext_resource type="Shader" path="res://RPG_assets/assets/shaders/forground_shader.gdshader" id="2_bwweq"]
+[ext_resource type="Shader" path="res://RPG_assets_2/assets/shaders/forground_shader.gdshader" id="2_bwweq"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_gj12o"]
 shader = ExtResource("2_bwweq")
