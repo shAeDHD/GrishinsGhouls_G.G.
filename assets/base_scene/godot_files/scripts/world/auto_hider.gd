@@ -3,7 +3,6 @@ extends CSGBox3D
 var layer = 0;
 
 func _process(delta):
-	print(position.x)
 	if GameManager.player.position.x > position.x:
 		set_to_foreground()
 	else:
