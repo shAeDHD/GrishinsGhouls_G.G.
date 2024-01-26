@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Lukky Tutorials"
+config/name="Base Scene"
+run/main_scene="res://scenes/main.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
