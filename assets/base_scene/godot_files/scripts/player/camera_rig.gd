@@ -1,16 +1,13 @@
 extends Node3D
+@onready var background_viewport = $Camera3D/background_viewport_container/background_viewport
+@onready var foreground_viewport = $Camera3D/foreground_viewport_container/foreground_viewport
 
-var background_viewport
-var foreground_viewport
-var background_camera
-var foreground_camera
+@onready var background_camera = $Camera3D/background_viewport_container/background_viewport/background_camera
+@onready var foreground_camera = $Camera3D/foreground_viewport_container/foreground_viewport/foreground_camera
+
+
 # Called when the node enters the scene tree for the first time.
 func _ready():
-	background_viewport = $Camera3D/background_viewport_container/background_viewport
-	foreground_viewport = $Camera3D/foreground_viewport_container/foreground_viewport
-
-	background_camera = $Camera3D/background_viewport_container/background_viewport/background_camera
-	foreground_camera = $Camera3D/foreground_viewport_container/foreground_viewport/foreground_camera
 	resize()
 	pass # Replace with function body.
 

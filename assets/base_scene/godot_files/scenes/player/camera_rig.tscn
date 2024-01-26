@@ -3,7 +3,7 @@
 [ext_resource type="Script" path="res://scripts/player/camera_rig.gd" id="1_lrjhl"]
 [ext_resource type="Shader" path="res://RPG_assets/assets/shaders/forground_shader.gdshader" id="2_bwweq"]
 
-[sub_resource type="ShaderMaterial" id="ShaderMaterial_qgeju"]
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_gj12o"]
 shader = ExtResource("2_bwweq")
 shader_parameter/MULTIPLIER = 0.56
 shader_parameter/SCALE = 0.5
@@ -32,7 +32,7 @@ render_target_update_mode = 4
 cull_mask = 1047553
 
 [node name="foreground_viewport_container" type="SubViewportContainer" parent="Camera3D"]
-material = SubResource("ShaderMaterial_qgeju")
+material = SubResource("ShaderMaterial_gj12o")
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
