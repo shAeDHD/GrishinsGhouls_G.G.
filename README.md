@@ -15,7 +15,7 @@ The open_source_assets are listed with their sources where possible. Additionall
 
 Every attempt will be made to add additional resources to this list as they become added to the project. 
 
-* Additional Project Resources
+# Additional Project Resources
 The following is an inexhaustive list of additional resources that are being utilised in the development of G.G.
   - Concept Docs - Google Doc - https://docs.google.com/document/d/1MHSy44bLe8WU8okVrHH7fNLhWY1q-Q--5iSY9SLMwRM/edit?usp=sharing
  
