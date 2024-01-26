@@ -1,4 +1,5 @@
 extends Node3D
+
 @onready var background_viewport = $Camera3D/background_viewport_container/background_viewport
 @onready var foreground_viewport = $Camera3D/foreground_viewport_container/foreground_viewport
 
