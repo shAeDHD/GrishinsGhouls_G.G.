@@ -8,10 +8,12 @@ In order to utilise the Godot assets within this file, the user must have the la
 # Additional Notes
 The open_source_assets are listed with their sources where possible. Additionally, the open_source_assets folder does not contain any `project.godot` type files that may be imported via Godot as functional pieces. Rather, they are intended as additional resources for future development. 
 
-# Open Source Assets List  
+# Open Source Assets List
   - [*Kenney's prototype textures*](https://www.kenney.nl/assets/prototype-textures)
   - [*Lukky's RPG assets*](https://github.com/lukky-nl/RPG_assets)
   - [*Mixamo basic char rig*](https://www.mixamo.com/#/)
+
+Every attempt will be made to add additional resources to this list as they become added to the project. 
 
 * Additional Project Resources
 The following is an inexhaustive list of additional resources that are being utilised in the development of G.G.
